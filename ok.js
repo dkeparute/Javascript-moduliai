@@ -1,0 +1,1 @@
+console.log(skirtumas(7, 5));
