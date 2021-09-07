@@ -12,3 +12,6 @@ function multiplication(a) {
      multiplication
  };
  */
+
+
+ // jeigu failas su extensinu mjs. node js supras jog bus naudojama ES moduliai; 
