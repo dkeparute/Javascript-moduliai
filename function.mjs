@@ -21,6 +21,7 @@ function dalyba(a, b) {
     return a / b;
 }
 // default export gali buti tik tai vienas vienintelis
+// export default function calc galima rasyti kaip function calc ir atskirai rasyti export {calc as default}
 export default function calc(veiksmas, a, b) {
     kiekis++;
 if (veiksmas == "sum") {
